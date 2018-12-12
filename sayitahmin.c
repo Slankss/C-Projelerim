@@ -8,7 +8,7 @@ int main(int argc, char *argv[]) {
 	
 
 int random[30],sayi,i,a;
-	
+	srand(time(NULL));
 	printf("Bir sayi gir: "); scanf("%d",&sayi);
 	for(i=0;i<30;i++)
 	{
