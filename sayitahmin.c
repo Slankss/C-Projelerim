@@ -17,10 +17,6 @@ int random[30],sayi,i,a;
 	if(sayi==random[i])
 	{
 	a=1;
-	break;
-	
-	
-	
 	}
 	else{
 	a=0;
